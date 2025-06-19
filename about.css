@@ -1,0 +1,30 @@
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 100px;
+    margin-block-end: 20px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: chartreuse;
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+h2{
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: darkorange;
+}
+h3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+body {
+    font-family: "Poppins", sans-serif;
+}
+.title{
+    margin-top: 50px;
+}
